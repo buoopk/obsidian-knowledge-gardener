@@ -1,0 +1,10 @@
+{
+    "id": "knowledge-gardener-pro",
+    "name": "Knowledge Gardener Pro",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Full-featured vault health dashboard with one-click actions, caching, and history.",
+    "author": "Your Name",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}
