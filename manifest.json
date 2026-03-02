@@ -3,8 +3,8 @@
     "name": "Knowledge Gardener",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
-    "description": "Vault内のノートの成熟度を診断します",
-    "author": "Your Name",
-    "authorUrl": "",
+    "description": "Treat your vault like a living garden. Find orphans, clear your stale inbox, and get daily actionable prescriptions.",
+    "author": "buoopk",
+    "authorUrl": "https://github.com/buoopk",
     "isDesktopOnly": false
 }
